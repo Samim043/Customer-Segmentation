@@ -35,7 +35,7 @@ While working with clusters, we need to specify the number of clusters to use. T
  3. **Visualization**
  ----------------------
  
- ![](Visualizaton_for_clustering.png)
+ ![](Visualizaton_for_clustering1.png)
  
    \- **Cluster 0 and 5** – The two cluster consists of  customers with medium PCA2 and a high PCA1.
 
