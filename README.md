@@ -7,7 +7,7 @@ Customer Segmentation is one the most important applications of unsupervised lea
 \- In this Data Science Project, we will perform one of the most essential applications of machine learning – Customer Segmentation. In this project, we will implement customer segmentation in python. Whenever you need to find your best customer, customer segmentation is the ideal methodology.
 
 
-**1. Exploratory data analysis**
+1. Exploratory data analysis
 -------------------------------
 We will start our customer segmentation project by exploring the data. Our data consists of one .csv file containing the following features that describe each customer:
 * CustomerIDs. 
@@ -16,4 +16,4 @@ We will start our customer segmentation project by exploring the data. Our data 
 * Annual Income.
 * Spending Score.
 
-Dataset is ### mall_customer.csv
+Dataset is **mall_customer.csv**
