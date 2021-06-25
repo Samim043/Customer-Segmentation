@@ -9,3 +9,11 @@ Customer Segmentation is one the most important applications of unsupervised lea
 
 **1. Exploratory data analysis**
 -------------------------------
+We will start our customer segmentation project by exploring the data. Our data consists of one .csv file containing the following features that describe each customer:
+* CustomerIDs. 
+* Age.
+* Gender.
+* Annual Income.
+* Spending Score.
+
+Dataset is ### mall_customer.csv
